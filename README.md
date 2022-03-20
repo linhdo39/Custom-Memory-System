@@ -10,3 +10,6 @@ This project was completed using original template structure from a class projec
 <b> Outcome
 - Two times faster memory system compare to the built-in memory systems
 - Passed the stressed test with over 100 random memory allocation and de-allocation operations.
+  
+<b> Citation
+ Copyright 2022, Ed Keenan, all rights reserved.
