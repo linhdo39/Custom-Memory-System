@@ -11,5 +11,4 @@ This project was completed using original template structure (1) from a class pr
 - Two times faster memory system compare to the built-in memory systems
 - Passed the stressed test with over 100 random memory allocation and de-allocation operations.
   
-<b> Citation
 (1) Copyright 2022, Ed Keenan, all rights reserved.
