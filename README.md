@@ -12,4 +12,4 @@ This project was completed using original template structure from a class projec
 - Passed the stressed test with over 100 random memory allocation and de-allocation operations.
   
 <b> Citation
- Copyright 2022, Ed Keenan, all rights reserved.
+- Copyright 2022, Ed Keenan, all rights reserved.
